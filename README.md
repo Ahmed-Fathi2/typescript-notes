@@ -9,12 +9,11 @@ A repository for learning and practicing TypeScript concepts with notes, example
 - Functions
 - Arrays & Tuples
 - Objects & Interfaces
-- Classes & OOP
+- Classes 
 - Generics
 - Enums
 - Type Aliases
 - Union & Intersection Types
-- Modules
 
 ## 🚀 Purpose
 
